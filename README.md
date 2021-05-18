@@ -1,4 +1,23 @@
-## Lesson-8
+## If its any problem with accessing to the database, reason is the firestore rules that should be like this :
+~~~
+rules_version = '2'; 
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write;
+      }
+    }
+}
+  ~~~
+
+and if you cant update the rules, you should download and install globally [firebase CLI](https://firebase.google.com/docs/cli) from firebase.com and follow the steps and update the rules. it might solve the problem.
+
+## If you can't enable Email/Password authentication method on firebase console, do this solutions :wink::+1:
+~~~ 
+1. Open firebase console in the incognito tab and the problem should be solved.
+2. If you have installed and enabled CORS extention, just disable it and try again. it will solve the problem.
+~~~
+
 
 Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
 
