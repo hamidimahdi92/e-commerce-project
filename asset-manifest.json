@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hamidimahdi92.github.io/e-commerce-project/static/css/main.5db35dc1.chunk.css",
+    "main.js": "/hamidimahdi92.github.io/e-commerce-project/static/js/main.0e9ac188.chunk.js",
+    "main.js.map": "/hamidimahdi92.github.io/e-commerce-project/static/js/main.0e9ac188.chunk.js.map",
+    "runtime-main.js": "/hamidimahdi92.github.io/e-commerce-project/static/js/runtime-main.98d7a109.js",
+    "runtime-main.js.map": "/hamidimahdi92.github.io/e-commerce-project/static/js/runtime-main.98d7a109.js.map",
+    "static/js/2.2e1ae0a3.chunk.js": "/hamidimahdi92.github.io/e-commerce-project/static/js/2.2e1ae0a3.chunk.js",
+    "static/js/2.2e1ae0a3.chunk.js.map": "/hamidimahdi92.github.io/e-commerce-project/static/js/2.2e1ae0a3.chunk.js.map",
+    "index.html": "/hamidimahdi92.github.io/e-commerce-project/index.html",
+    "static/css/main.5db35dc1.chunk.css.map": "/hamidimahdi92.github.io/e-commerce-project/static/css/main.5db35dc1.chunk.css.map",
+    "static/js/2.2e1ae0a3.chunk.js.LICENSE.txt": "/hamidimahdi92.github.io/e-commerce-project/static/js/2.2e1ae0a3.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/hamidimahdi92.github.io/e-commerce-project/static/media/crown.207ae289.svg",
+    "static/media/shopping-bag.a688874f.svg": "/hamidimahdi92.github.io/e-commerce-project/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98d7a109.js",
+    "static/js/2.2e1ae0a3.chunk.js",
+    "static/css/main.5db35dc1.chunk.css",
+    "static/js/main.0e9ac188.chunk.js"
+  ]
+}
